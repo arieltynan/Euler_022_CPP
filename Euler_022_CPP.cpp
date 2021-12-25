@@ -9,7 +9,7 @@
 #include <algorithm>
 
 using namespace std;
-
+ 
 int biSearch(string* arr, int arrSize, string target)
 {
     int first = 0;
