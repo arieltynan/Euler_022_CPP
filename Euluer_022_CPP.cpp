@@ -50,7 +50,6 @@ vector<string> Sort(vector<string> vect, int size)
 
 int main()
 {
-    cout << "Hello World!\n";
     ifstream fin;
     string fileName = "p022_names.txt";
     fin.open(fileName.c_str());
