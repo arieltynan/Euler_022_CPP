@@ -1,4 +1,4 @@
-// Euluer_022_CPP.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Euler_022_CPP.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // What is the total of all the name scores in the file?
 
 #include <iostream>
